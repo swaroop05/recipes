@@ -1,0 +1,8 @@
+Get curd from groceries store
+Get rice from groceries store
+Add 3 cups of water for 1 cup of rice and soak it for 10 mins
+Then add the water and rice together in a rice cooker. And switch it on
+Rice cooker will indicate when its done cooking rice.
+Once Rice is ready mix Rice with Curd with required consistency
+
+Thats it. Curd Rice is ready !!..Can you believe it ;)
